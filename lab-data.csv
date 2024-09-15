@@ -1,0 +1,451 @@
+cedula,nombre,apellido,evento,fecha_muestra,estado,test,resultado
+11654303,Pepito,Malo,Dengue,2024-03-14,finalizado,PCR,positivo
+99349801,Lidia,Canales,Dengue,2024-01-24,finalizado,PCR,positivo
+10431065,Eloísa,Salazar,Dengue,2024-07-06,finalizado,serología,positivo
+40582816,Carlos,Peñas,Dengue,2024-03-31,finalizado,PCR,positivo
+57631591,Raúl,Comas,Dengue,2024-05-19,finalizado,serología,positivo
+66202830,Liliana,Quirós,Dengue,2024-07-20,finalizado,serología,positivo
+94423701,Piedad,Belmonte,Dengue,2024-02-05,finalizado,PCR,positivo
+10161892,Benigno,Ferrera,Dengue,2024-01-07,finalizado,PCR,positivo
+75888235,Omar,Manso,Dengue,2024-07-20,finalizado,serología,positivo
+41746423,Hortensia,Losa,Dengue,2024-02-04,finalizado,PCR,positivo
+98894338,Itziar,Hervia,Dengue,2024-02-16,finalizado,PCR,positivo
+23425699,Jose Manuel,Llobet,Dengue,2024-07-04,finalizado,serología,positivo
+18928591,Quirino,Menendez,Dengue,2024-05-15,finalizado,serología,positivo
+32579495,Pepe,Espinosa,Dengue,2024-02-29,finalizado,serología,positivo
+87492634,Flavio,Rosselló,Dengue,2024-05-25,finalizado,PCR,positivo
+37492101,Roque,Martinez,Dengue,2024-04-14,finalizado,serología,positivo
+98206569,Jacinto,Raya,Dengue,2024-07-07,finalizado,serología,positivo
+21878874,Ester,Jara,Dengue,2024-07-15,finalizado,PCR,positivo
+64839774,Luis Ángel,Belda,Dengue,2024-03-09,finalizado,serología,positivo
+57967960,Noemí,Carreño,Dengue,2024-03-01,finalizado,serología,positivo
+82053291,Paz,Rey,Dengue,2024-04-13,finalizado,PCR,positivo
+16570958,Loreto,Estévez,Dengue,2024-03-30,finalizado,PCR,positivo
+56876245,Teodora,Ureña,Dengue,2024-02-13,finalizado,PCR,positivo
+67906784,Nacho,Portillo,Dengue,2024-01-15,finalizado,PCR,positivo
+47022235,Manola,Baena,Dengue,2024-07-14,finalizado,PCR,positivo
+51057844,Dan,Gascón,Dengue,2024-06-01,finalizado,serología,positivo
+59440996,Ernesto,Pont,Dengue,2024-05-14,finalizado,PCR,positivo
+67319602,Martirio,Badía,Dengue,2024-05-07,finalizado,PCR,positivo
+98808155,Nacho,Segovia,Dengue,2024-04-10,finalizado,serología,positivo
+29073575,Calixta,Barrena,Dengue,2024-06-27,finalizado,PCR,positivo
+28453071,Marciano,Rosales,Dengue,2024-01-30,finalizado,serología,positivo
+15379482,Toño,Blanca,Dengue,2024-07-17,finalizado,serología,positivo
+94468026,Rosaura,Muro,Dengue,2024-05-02,finalizado,serología,negativo
+29003502,Cosme,Jaume,Dengue,2024-02-18,finalizado,PCR,positivo
+88294372,Celestina,Fabra,Dengue,2024-03-19,finalizado,serología,positivo
+84630742,Anacleto,Ayuso,Dengue,2024-03-22,finalizado,PCR,positivo
+67640770,Flora,Macías,Dengue,2024-07-20,finalizado,serología,positivo
+39945213,Vanesa,Aliaga,Dengue,2024-07-28,finalizado,PCR,positivo
+21549641,Dorita,Sarabia,Dengue,2024-07-20,finalizado,serología,positivo
+10737714,Adora,Peral,Dengue,2024-01-18,finalizado,PCR,positivo
+10940848,Lázaro,Sales,Dengue,2024-05-20,finalizado,PCR,positivo
+47271484,Natalia,Lillo,Dengue,2024-04-08,finalizado,serología,positivo
+16601129,Chelo,Salinas,Dengue,2024-04-10,finalizado,PCR,positivo
+65420916,Juliana,Lopez,Dengue,2024-02-19,finalizado,serología,positivo
+76675293,Demetrio,Montoya,Dengue,2024-07-03,finalizado,PCR,positivo
+56353689,Isidoro,Toledo,Dengue,2024-08-07,finalizado,PCR,positivo
+54573596,Paulina,Mateu,Dengue,2024-02-12,finalizado,serología,positivo
+32900509,Mariano,Saez,Dengue,2024-02-02,finalizado,PCR,positivo
+10353017,Ligia,Hervia,Dengue,2024-03-07,finalizado,PCR,positivo
+19931531,Genoveva,Nicolás,Dengue,2024-07-01,finalizado,PCR,positivo
+10175744,Claudio,Carrasco,Dengue,2024-01-06,finalizado,serología,positivo
+77875254,Luís,Heredia,Dengue,2024-02-26,finalizado,serología,positivo
+45339672,Emilio,Juárez,Dengue,2024-06-21,finalizado,PCR,positivo
+39928203,Serafina,Barrera,Dengue,2024-04-19,finalizado,PCR,positivo
+23540051,Horacio,Camacho,Dengue,2024-03-07,finalizado,serología,positivo
+42885236,Elodia,Olmedo,Dengue,2024-03-21,finalizado,serología,positivo
+58149064,Hilda,Roman,Dengue,2024-08-03,finalizado,serología,positivo
+61058119,Prudencio,Álvarez,Dengue,2024-03-28,finalizado,serología,positivo
+10850695,Ramón,Gargallo,Dengue,2024-01-21,finalizado,serología,positivo
+97209297,Pili,Fernández,Dengue,2024-02-11,finalizado,serología,positivo
+49550175,Curro,Barriga,Dengue,2024-06-18,finalizado,serología,positivo
+81893696,Adrián,Murcia,Dengue,2024-03-21,finalizado,serología,positivo
+89837959,Trinidad,Velasco,Dengue,2024-07-19,finalizado,serología,positivo
+29142336,Abril,León,Dengue,2024-05-29,finalizado,serología,positivo
+34730108,Socorro,Valero,Dengue,2024-04-20,finalizado,PCR,positivo
+74798213,Ernesto,Cal,Dengue,2024-03-15,finalizado,serología,positivo
+26830881,Asdrubal,Carrasco,Dengue,2024-01-17,finalizado,serología,negativo
+77832783,Lope,Matas,Dengue,2024-07-08,finalizado,serología,positivo
+87323544,Erasmo,Roselló,Dengue,2024-04-25,finalizado,PCR,positivo
+39768126,Rosario,Pareja,Dengue,2024-01-19,finalizado,serología,positivo
+23786534,María Manuela,Mate,Dengue,2024-02-28,finalizado,serología,positivo
+79751434,Amando,Bayón,Dengue,2024-03-17,finalizado,serología,positivo
+28365202,Candela,Solano,Dengue,2024-03-08,finalizado,PCR,positivo
+33376359,María Teresa,Bertrán,Dengue,2024-01-15,finalizado,serología,positivo
+72093897,Olegario,Arias,Dengue,2024-07-26,finalizado,PCR,negativo
+65111206,Ligia,Castejón,Dengue,2024-07-03,finalizado,PCR,positivo
+97689772,Angelita,Olmo,Dengue,2024-03-11,finalizado,serología,positivo
+67612503,Tania,Barrios,Dengue,2024-05-19,finalizado,serología,positivo
+10385600,Tito,Crespo,Dengue,2024-02-08,finalizado,serología,positivo
+53859298,Nieves,Sandoval,Dengue,2024-07-14,finalizado,serología,positivo
+57449213,Fidela,Ángel,Dengue,2024-01-25,finalizado,PCR,positivo
+27212832,Efraín,Jódar,Dengue,2024-03-08,finalizado,PCR,positivo
+10247024,Demetrio,Mena,Dengue,2024-02-20,finalizado,serología,positivo
+50567664,Petrona,Montoya,Dengue,2024-02-27,finalizado,serología,positivo
+21439696,Gerónimo,Bayona,Dengue,2024-08-01,finalizado,PCR,positivo
+39922970,Delfina,Morales,Dengue,2024-04-14,finalizado,PCR,positivo
+67613284,Alejandra,Pulido,Dengue,2024-03-28,finalizado,serología,positivo
+31531058,Fidel,Pulido,Dengue,2024-06-04,finalizado,PCR,positivo
+27611591,Herminia,Gordillo,Dengue,2024-04-13,finalizado,serología,positivo
+80659029,Juan Bautista,Iglesias,Dengue,2024-04-22,finalizado,serología,positivo
+97794006,Chus,Abella,Dengue,2024-03-26,finalizado,PCR,positivo
+86457233,Haroldo,Diéguez,Dengue,2024-01-26,finalizado,PCR,positivo
+74159859,Isabela,Casanova,Dengue,2024-08-01,finalizado,serología,positivo
+13902869,Berta,Diego,Dengue,2024-03-24,finalizado,serología,positivo
+10265555,Nicolás,Andreu,Dengue,2024-01-31,finalizado,PCR,positivo
+10297104,Rubén,Ponce,Dengue,2024-02-24,finalizado,PCR,positivo
+99363132,Jordi,Peláez,Dengue,2024-04-19,finalizado,PCR,positivo
+41834888,Jenaro,Monreal,Dengue,2024-01-09,finalizado,PCR,positivo
+49835006,Ana Belén,Borrell,Dengue,2024-02-09,finalizado,PCR,positivo
+24084301,Calixto,Silva,Dengue,2024-05-21,finalizado,PCR,positivo
+82895877,Martín,Múgica,Dengue,2024-01-15,finalizado,PCR,positivo
+10427737,Lupe,Clemente,Dengue,2024-07-14,finalizado,PCR,positivo
+22366727,Florina,Marti,Dengue,2024-04-06,finalizado,serología,positivo
+51133963,Adelina,Roman,Dengue,2024-02-13,finalizado,PCR,positivo
+28369775,Alicia,Aragón,Dengue,2024-05-09,finalizado,serología,positivo
+87574785,Marc,Bayo,Dengue,2024-04-29,finalizado,serología,positivo
+26764232,Sonia,Cabañas,Dengue,2024-02-21,finalizado,serología,positivo
+10746989,Bibiana,Baena,Dengue,2024-05-26,finalizado,serología,positivo
+39762213,Pepito,Luna,Dengue,2024-02-26,finalizado,PCR,positivo
+10962660,Imelda,Barranco,Dengue,2024-01-27,finalizado,PCR,positivo
+62954009,Nerea,Fuente,Dengue,2024-04-10,finalizado,PCR,positivo
+63548594,Aroa,Ramírez,Dengue,2024-08-11,finalizado,serología,positivo
+66977506,Abel,Ferreras,Dengue,2024-01-09,finalizado,PCR,positivo
+24925173,María Belén,Elorza,Dengue,2024-02-13,finalizado,PCR,positivo
+87613478,Luis Miguel,Guillén,Meningitis Viral,2024-07-24,en proceso,PCR,
+92564989,Natalia,Escolano,Leptospirosis,2024-05-28,en proceso,serología,
+96642583,Juan,Lerma,Leptospirosis,2024-01-09,finalizado,PCR,negativo
+91061243,Eduardo,Cánovas,Meningitis Bacteriana,2024-01-07,en tránsito,serología,
+81587922,Olegario,Miranda,Leptospirosis,2024-03-01,recibido,PCR,
+74555180,Osvaldo,Cuervo,Meningitis Viral,2024-04-21,finalizado,PCR,positivo
+57516220,Abilio,Villanueva,Meningitis Viral,2024-03-24,en tránsito,serología,
+30495435,Hernando,Cervera,Meningitis Viral,2024-05-27,en tránsito,PCR,
+66589838,Sosimo,Blázquez,Meningitis Bacteriana,2024-05-24,en proceso,serología,
+10114463,Renato,Balaguer,Meningitis Bacteriana,2024-02-29,finalizado,serología,positivo
+36301793,Rodolfo,Redondo,Meningitis Bacteriana,2024-02-06,finalizado,serología,negativo
+12839233,Danilo,Expósito,Meningitis Bacteriana,2024-03-19,recibido,serología,
+10359475,Macaria,Solana,Meningitis Viral,2024-01-31,recibido,serología,
+58388674,Gerónimo,Ródenas,Meningitis Viral,2024-01-17,finalizado,PCR,negativo
+76048993,Adelaida,Amigó,Meningitis Viral,2024-07-31,finalizado,serología,negativo
+17924798,Nicolasa,Murillo,Meningitis Bacteriana,2024-07-27,en proceso,PCR,
+40009155,Josep,Polo,Meningitis Viral,2024-07-07,recibido,serología,
+44070201,Alberto,Blanca,Leptospirosis,2024-05-22,en proceso,serología,
+55428227,Maristela,Andrade,Leptospirosis,2024-04-16,recibido,PCR,
+68318013,Flor,Gilabert,Meningitis Viral,2024-01-30,en tránsito,PCR,
+14178405,Piedad,Toledo,Meningitis Viral,2024-04-30,en proceso,serología,
+37380368,Isaura,Madrid,Meningitis Bacteriana,2024-06-09,finalizado,serología,negativo
+35052466,Prudencio,Bellido,Leptospirosis,2024-04-28,finalizado,PCR,negativo
+16680646,Verónica,Ayala,Meningitis Viral,2024-06-23,en proceso,serología,
+20101466,Marcial,Múgica,Meningitis Viral,2024-02-06,recibido,serología,
+53988734,Marino,Mateu,Meningitis Bacteriana,2024-07-05,finalizado,serología,positivo
+96706824,Mohamed,Barroso,Leptospirosis,2024-06-30,en tránsito,PCR,
+26136223,Ismael,Izaguirre,Leptospirosis,2024-02-26,finalizado,PCR,negativo
+10323541,Eva María,Saavedra,Leptospirosis,2024-07-17,en proceso,serología,
+10355526,Efraín,Peralta,Meningitis Viral,2024-01-06,en tránsito,PCR,
+76391441,Nazario,Llorens,Meningitis Viral,2024-02-09,finalizado,serología,negativo
+50001402,Samu,Borrás,Meningitis Viral,2024-01-28,en tránsito,serología,
+57508720,Elías,Artigas,Leptospirosis,2024-06-16,en proceso,serología,
+45835400,Amelia,Rivero,Meningitis Viral,2024-07-25,en proceso,PCR,
+11022611,Carmelo,Montalbán,Leptospirosis,2024-03-23,recibido,serología,
+15339537,Nazaret,Ángel,Meningitis Bacteriana,2024-06-10,en proceso,serología,
+78109977,Paloma,Bosch,Meningitis Bacteriana,2024-01-21,recibido,PCR,
+12329412,Catalina,Álvaro,Meningitis Viral,2024-01-12,finalizado,PCR,positivo
+45264964,Alonso,Losada,Leptospirosis,2024-01-07,en tránsito,serología,
+94200771,Alma,Alegre,Meningitis Bacteriana,2024-02-03,en proceso,serología,
+59355373,Adelina,Castilla,Meningitis Viral,2024-03-16,finalizado,serología,negativo
+38671576,Nacho,Pastor,Leptospirosis,2024-05-17,en tránsito,PCR,
+99440669,Ariel,Luís,Meningitis Viral,2024-01-07,recibido,serología,
+40660955,Yéssica,Roig,Meningitis Viral,2024-05-24,en tránsito,PCR,
+76422101,Feliciana,Arellano,Meningitis Bacteriana,2024-04-23,finalizado,serología,negativo
+37476731,Dorita,Agustí,Meningitis Viral,2024-04-28,recibido,serología,
+58797041,Luis Ángel,Borrell,Meningitis Viral,2024-06-14,finalizado,serología,positivo
+91503475,Silvio,Barral,Meningitis Viral,2024-03-22,en proceso,PCR,
+19528180,Juliana,Rius,Meningitis Bacteriana,2024-06-21,finalizado,PCR,negativo
+31780514,Aurelio,Barrena,Meningitis Viral,2024-05-29,en proceso,PCR,
+22215914,Martirio,Roda,Meningitis Bacteriana,2024-05-18,finalizado,serología,negativo
+10098568,Edelmira,Mur,Leptospirosis,2024-01-14,en proceso,serología,
+61177599,Cintia,Parra,Meningitis Bacteriana,2024-05-10,en tránsito,PCR,
+63362172,Olga,Prieto,Leptospirosis,2024-07-02,finalizado,PCR,negativo
+70477291,Chita,Cuéllar,Meningitis Viral,2024-05-10,recibido,serología,
+22727818,Verónica,Falcó,Meningitis Bacteriana,2024-02-12,finalizado,serología,positivo
+90441567,Ágata,Villalonga,Meningitis Viral,2024-02-08,en tránsito,PCR,
+87130375,Reina,Romero,Meningitis Viral,2024-07-04,en tránsito,PCR,
+73505510,Fabián,Villa,Meningitis Viral,2024-02-10,en tránsito,serología,
+32350740,Sara,Parra,Meningitis Bacteriana,2024-04-06,en proceso,serología,
+95726697,Porfirio,Bernad,Meningitis Bacteriana,2024-01-09,en tránsito,serología,
+83338985,Jovita,Llopis,Leptospirosis,2024-04-04,recibido,serología,
+95882118,José Mari,Andrade,Leptospirosis,2024-06-22,finalizado,PCR,negativo
+38478241,Gertrudis,Morcillo,Meningitis Bacteriana,2024-02-05,en proceso,serología,
+10861244,Hector,Azcona,Meningitis Viral,2024-07-26,recibido,serología,
+11553589,José Mari,Peral,Leptospirosis,2024-05-22,recibido,serología,
+77427130,Bernabé,Cabezas,Meningitis Bacteriana,2024-03-20,recibido,PCR,
+45764447,Alma,Nogueira,Leptospirosis,2024-07-06,en tránsito,PCR,
+93697018,Aitor,Sáenz,Meningitis Viral,2024-04-29,en tránsito,PCR,
+10898445,Marino,Enríquez,Leptospirosis,2024-03-18,en proceso,PCR,
+53503710,Gerardo,Caro,Meningitis Viral,2024-05-17,finalizado,serología,positivo
+97096129,Emigdio,Alcázar,Meningitis Bacteriana,2024-03-14,en proceso,serología,
+96510534,Odalis,Amaya,Leptospirosis,2024-03-12,en tránsito,PCR,
+77838765,Sandalio,Llorente,Leptospirosis,2024-02-05,en proceso,serología,
+29336123,Inés,Cerdá,Leptospirosis,2024-07-06,en tránsito,PCR,
+75907853,Juan Francisco,Gomis,Meningitis Bacteriana,2024-05-14,en proceso,serología,
+59932327,Estela,Azorin,Leptospirosis,2024-02-26,recibido,serología,
+23581079,Baltasar,Trillo,Leptospirosis,2024-03-28,en proceso,serología,
+63643728,Rogelio,Rojas,Meningitis Viral,2024-02-17,finalizado,PCR,negativo
+28842276,Aureliano,Mesa,Meningitis Viral,2024-05-21,en proceso,serología,
+90817338,Febe,Ortuño,Meningitis Bacteriana,2024-02-28,finalizado,PCR,negativo
+38228355,Hugo,Aparicio,Meningitis Bacteriana,2024-06-19,en proceso,PCR,
+44991657,Adelaida,Abellán,Meningitis Bacteriana,2024-04-17,en tránsito,serología,
+10282292,Laura,Barragán,Meningitis Bacteriana,2024-02-07,en tránsito,serología,
+79432185,Pablo,Tamayo,Leptospirosis,2024-06-16,finalizado,serología,positivo
+72097605,Víctor,Guerra,Meningitis Viral,2024-01-29,en tránsito,PCR,
+34571097,Inmaculada,Sarmiento,Leptospirosis,2024-05-22,en proceso,PCR,
+34214192,Brunilda,Tur,Leptospirosis,2024-05-07,recibido,serología,
+65579000,Valentina,Méndez,Meningitis Viral,2024-04-17,finalizado,PCR,negativo
+88770922,Guillermo,Sierra,Meningitis Viral,2024-07-09,recibido,serología,
+10333271,Martin,Rius,Leptospirosis,2024-06-26,en proceso,PCR,
+97494282,Adalberto,Mata,Meningitis Bacteriana,2024-04-23,en tránsito,PCR,
+52917346,Fermín,Segura,Leptospirosis,2024-03-27,en tránsito,serología,
+18815895,Bartolomé,Perea,Meningitis Bacteriana,2024-03-13,recibido,PCR,
+90649723,Purificación,García,Meningitis Viral,2024-06-14,recibido,PCR,
+28303955,Carmelita,Serrano,Leptospirosis,2024-07-03,finalizado,serología,positivo
+99428029,Nacho,Exposito,Meningitis Bacteriana,2024-07-25,en proceso,serología,
+61003879,Visitación,Pazos,Meningitis Bacteriana,2024-03-28,recibido,PCR,
+43030957,Yago,Cabanillas,Meningitis Viral,2024-05-29,en proceso,serología,
+72313134,Basilio,Vidal,Meningitis Viral,2024-02-02,recibido,serología,
+12911748,Alfonso,Salas,Leptospirosis,2024-05-09,en tránsito,serología,
+17929936,Severiano,Vilaplana,Meningitis Viral,2024-02-27,finalizado,serología,positivo
+10172695,Ileana,Tamarit,Meningitis Viral,2024-07-05,en tránsito,PCR,
+82524092,Aarón,Avilés,Meningitis Bacteriana,2024-02-01,recibido,serología,
+19886625,Belen,Domínguez,Meningitis Bacteriana,2024-03-16,en tránsito,PCR,
+63222269,Fidela,Ferreras,Leptospirosis,2024-02-04,recibido,serología,
+98148987,Encarnacion,Garmendia,Meningitis Bacteriana,2024-07-30,en proceso,PCR,
+82150241,Edgardo,Tello,Meningitis Viral,2024-04-12,finalizado,PCR,positivo
+61501150,Ricarda,Escolano,Meningitis Viral,2024-05-19,finalizado,serología,positivo
+56410734,Benjamín,Lasa,Meningitis Bacteriana,2024-05-11,en proceso,serología,
+34654067,Manuela,Roma,Meningitis Bacteriana,2024-07-29,en tránsito,serología,
+62929389,Esther,Alcántara,Leptospirosis,2024-05-20,en proceso,serología,
+59520481,Luisa,Camino,Leptospirosis,2024-06-07,en tránsito,PCR,
+77277056,Alberto,Rivero,Leptospirosis,2024-07-12,recibido,PCR,
+15872600,Teo,Osorio,Meningitis Bacteriana,2024-01-22,en proceso,PCR,
+24628618,Pío,Jove,Meningitis Viral,2024-06-03,en tránsito,PCR,
+97557256,Alba,Prada,Leptospirosis,2024-02-22,en tránsito,PCR,
+20717318,Odalys,Río,Meningitis Bacteriana,2024-07-30,finalizado,PCR,negativo
+10359152,Cecilio,Barreda,Leptospirosis,2024-06-27,recibido,PCR,
+52540208,Ramón,Cobos,Leptospirosis,2024-06-22,finalizado,PCR,positivo
+98564474,Edelmiro,Cerdán,Meningitis Bacteriana,2024-01-14,en tránsito,serología,
+89849568,Jose Manuel,Marin,Leptospirosis,2024-06-14,en proceso,PCR,
+15675783,César,Calleja,Leptospirosis,2024-03-01,en tránsito,PCR,
+92051122,Carina,Niño,Meningitis Bacteriana,2024-05-29,en tránsito,serología,
+10761026,Bibiana,Casado,Leptospirosis,2024-03-31,en tránsito,serología,
+91694616,Anastasio,Farré,Leptospirosis,2024-07-29,recibido,PCR,
+48419132,Fabiola,Bosch,Meningitis Bacteriana,2024-07-21,en proceso,serología,
+17928879,Jordán,Gallart,Meningitis Bacteriana,2024-07-01,recibido,serología,
+45731236,Pascual,Toledo,Meningitis Bacteriana,2024-03-19,finalizado,PCR,negativo
+73273608,Nerea,Pulido,Leptospirosis,2024-07-29,en proceso,PCR,
+44757417,Rosaura,Armengol,Meningitis Bacteriana,2024-05-09,en tránsito,serología,
+29944562,Paco,Gámez,Leptospirosis,2024-07-03,finalizado,PCR,positivo
+78426165,Fabricio,Páez,Meningitis Viral,2024-02-02,en proceso,PCR,
+48033653,Cintia,Arellano,Leptospirosis,2024-03-31,en proceso,serología,
+67215331,Tania,Piñol,Meningitis Bacteriana,2024-04-14,recibido,serología,
+39171549,Leocadia,Bravo,Meningitis Bacteriana,2024-02-10,recibido,PCR,
+61627754,Jose Miguel,Viñas,Meningitis Viral,2024-02-09,en proceso,serología,
+71258547,Ángela,Sotelo,Meningitis Viral,2024-02-25,finalizado,PCR,negativo
+18004347,Azahara,Gomila,Meningitis Bacteriana,2024-07-05,en proceso,serología,
+69765764,Adrián,Sabater,Meningitis Bacteriana,2024-07-12,recibido,PCR,
+39437804,Martin,Cuevas,Meningitis Bacteriana,2024-07-22,en proceso,serología,
+76392865,Régulo,Quevedo,Meningitis Viral,2024-04-02,recibido,serología,
+41576951,Angelina,Vidal,Leptospirosis,2024-01-14,recibido,serología,
+44456398,Nicolasa,Perelló,Leptospirosis,2024-06-30,finalizado,PCR,positivo
+79573371,Vasco,Cal,Meningitis Viral,2024-05-21,recibido,PCR,
+91382625,Mirta,Clemente,Meningitis Bacteriana,2024-04-16,finalizado,PCR,negativo
+45958256,Lino,Moya,Leptospirosis,2024-02-22,en proceso,serología,
+10390948,Paulina,Casal,Leptospirosis,2024-03-12,recibido,PCR,
+29106023,Marita,Barón,Meningitis Viral,2024-06-13,en proceso,serología,
+88848278,Toribio,Arnal,Meningitis Viral,2024-02-28,recibido,serología,
+71367708,Borja,Sanmartín,Meningitis Bacteriana,2024-06-20,en proceso,PCR,
+96975847,Hector,Viana,Meningitis Viral,2024-04-15,finalizado,serología,negativo
+10706169,Benigna,Bellido,Leptospirosis,2024-06-27,en proceso,serología,
+85862835,Ale,Cerdá,Meningitis Viral,2024-04-03,recibido,PCR,
+81497484,Perlita,Portillo,Leptospirosis,2024-05-01,recibido,PCR,
+21813531,Milagros,Baeza,Meningitis Viral,2024-04-19,recibido,serología,
+62702422,Ofelia,Mateo,Leptospirosis,2024-06-30,en tránsito,serología,
+37175678,Odalis,Roda,Meningitis Viral,2024-01-13,en proceso,serología,
+54102991,Jose Angel,Duran,Leptospirosis,2024-02-01,en tránsito,PCR,
+15191448,Joaquín,Ledesma,Meningitis Viral,2024-04-02,en tránsito,PCR,
+10587862,Renata,Lucena,Meningitis Viral,2024-03-30,en proceso,serología,
+65062485,María Pilar,Mayol,Meningitis Bacteriana,2024-06-16,en proceso,serología,
+75797113,Adalberto,Blanco,Leptospirosis,2024-07-28,recibido,serología,
+10268949,Jordi,Palau,Meningitis Viral,2024-03-09,en tránsito,serología,
+31110492,Lalo,Benito,Meningitis Viral,2024-06-26,recibido,serología,
+10312936,Chelo,Garriga,Leptospirosis,2024-07-29,recibido,serología,
+30558653,Sigfrido,Somoza,Meningitis Bacteriana,2024-07-17,recibido,PCR,
+16528751,Isaac,Tomás,Meningitis Bacteriana,2024-07-04,en tránsito,serología,
+21520348,Diego,Tejedor,Leptospirosis,2024-03-02,en tránsito,PCR,
+14978467,Silvia,Porta,Meningitis Bacteriana,2024-02-29,en tránsito,PCR,
+54265921,Nacio,Lucena,Leptospirosis,2024-01-21,en proceso,PCR,
+73656919,Nazario,Llorente,Meningitis Bacteriana,2024-01-11,en tránsito,serología,
+10386143,Bienvenida,Royo,Meningitis Viral,2024-03-29,en proceso,PCR,
+47591050,Felisa,Rojas,Meningitis Bacteriana,2024-03-08,en proceso,serología,
+95012945,Narciso,Gras,Leptospirosis,2024-03-01,recibido,serología,
+48442393,Modesta,Machado,Meningitis Bacteriana,2024-06-14,finalizado,serología,negativo
+46929525,Alejo,Vila,Meningitis Bacteriana,2024-08-05,recibido,PCR,
+85862017,Valentina,Díez,Meningitis Viral,2024-07-13,en tránsito,PCR,
+39685974,Filomena,Chacón,Leptospirosis,2024-06-07,recibido,serología,
+89896345,Kike,León,Leptospirosis,2024-05-02,en proceso,serología,
+65983091,Santos,Morcillo,Leptospirosis,2024-07-14,en proceso,PCR,
+67933214,Judith,Barrios,Meningitis Viral,2024-01-24,en tránsito,PCR,
+10572079,Roldán,Durán,Leptospirosis,2024-01-31,en tránsito,serología,
+27541269,Toribio,Menendez,Meningitis Bacteriana,2024-07-25,finalizado,PCR,negativo
+15841572,Macaria,Solís,Leptospirosis,2024-04-13,recibido,PCR,
+26350592,Artemio,Ribas,Meningitis Bacteriana,2024-01-22,en proceso,serología,
+75773804,Demetrio,Pellicer,Meningitis Viral,2024-02-22,finalizado,PCR,positivo
+28821210,Lisandro,Manrique,Meningitis Viral,2024-02-21,recibido,PCR,
+81095632,Amanda,Pallarès,Meningitis Viral,2024-04-28,en tránsito,PCR,
+62567363,Chuy,Murillo,Meningitis Bacteriana,2024-02-08,en tránsito,serología,
+92729715,Pilar,Sierra,Leptospirosis,2024-03-11,en proceso,PCR,
+75922746,Andrés,Abellán,Meningitis Viral,2024-07-14,en tránsito,PCR,
+74587171,Amparo,Guitart,Meningitis Bacteriana,2024-05-07,en tránsito,serología,
+54841755,Natalia,Morell,Leptospirosis,2024-07-09,recibido,serología,
+84151833,Prudencia,Cervera,Meningitis Viral,2024-05-03,finalizado,PCR,positivo
+10033974,Mateo,Oliva,Meningitis Bacteriana,2024-01-06,en proceso,PCR,
+10054930,Graciano,Carreño,Meningitis Viral,2024-04-27,finalizado,PCR,positivo
+17184665,Darío,Aliaga,Meningitis Bacteriana,2024-06-04,recibido,serología,
+71245257,Luz,Hoyos,Leptospirosis,2024-06-20,recibido,serología,
+60089575,Máximo,Gomila,Meningitis Viral,2024-06-26,finalizado,PCR,negativo
+54982963,Priscila,Reig,Meningitis Viral,2024-04-18,finalizado,PCR,negativo
+59219513,Sebastián,Contreras,Leptospirosis,2024-02-01,en proceso,serología,
+18224795,Estefanía,Querol,Meningitis Viral,2024-05-19,en tránsito,serología,
+93860316,Candelas,Somoza,Meningitis Bacteriana,2024-02-12,en tránsito,serología,
+16257211,Modesto,Novoa,Meningitis Bacteriana,2024-04-27,recibido,serología,
+10641357,Lilia,Camps,Leptospirosis,2024-05-11,en tránsito,PCR,
+77895846,Judith,Tormo,Leptospirosis,2024-04-26,en tránsito,serología,
+99874957,Concha,Trujillo,Leptospirosis,2024-01-15,en proceso,PCR,
+74074245,Manolo,Maza,Meningitis Bacteriana,2024-03-07,recibido,PCR,
+63263867,Ignacio,Rey,Meningitis Viral,2024-05-03,en tránsito,serología,
+13164483,Teodora,Morán,Meningitis Viral,2024-04-14,en tránsito,serología,
+31041562,Modesta,Villaverde,Meningitis Bacteriana,2024-07-16,finalizado,PCR,negativo
+10150099,Ramona,Salmerón,Meningitis Bacteriana,2024-07-28,recibido,PCR,
+65922174,Manuel,Adadia,Meningitis Viral,2024-06-14,en tránsito,serología,
+67317767,Jeremías,Vilanova,Meningitis Viral,2024-05-15,recibido,serología,
+24541216,Rebeca,Tejera,Meningitis Viral,2024-03-01,recibido,serología,
+14595849,Jordi,Toledo,Leptospirosis,2024-08-10,finalizado,serología,negativo
+87267807,Nicolás,Murcia,Meningitis Viral,2024-07-15,en tránsito,serología,
+10066652,Daniela,Flor,Meningitis Viral,2024-01-18,finalizado,PCR,positivo
+46793556,Malena,Arco,Leptospirosis,2024-01-20,en tránsito,PCR,
+61071361,Dolores,Catalá,Leptospirosis,2024-01-11,finalizado,PCR,positivo
+12483678,Narciso,Aguado,Meningitis Viral,2024-02-05,recibido,PCR,
+51112101,Encarnita,Pedro,Meningitis Bacteriana,2024-05-18,finalizado,PCR,negativo
+72185656,Juliana,Pi,Leptospirosis,2024-06-11,recibido,serología,
+76571966,Vilma,Fabregat,Meningitis Bacteriana,2024-06-05,recibido,serología,
+96690847,Claudia,Sarmiento,Leptospirosis,2024-03-26,en proceso,PCR,
+63249019,Rosalía,Múgica,Leptospirosis,2024-04-10,recibido,PCR,
+10574287,Melisa,Valle,Meningitis Bacteriana,2024-02-03,en proceso,PCR,
+10389010,Cleto,Amat,Meningitis Viral,2024-05-29,finalizado,serología,positivo
+19972270,Fanny,Briones,Meningitis Bacteriana,2024-05-16,en tránsito,PCR,
+22279673,María Pilar,Rios,Leptospirosis,2024-05-23,recibido,PCR,
+87891315,Ximena,Jordá,Meningitis Bacteriana,2024-01-06,recibido,serología,
+96878449,Luís,Iborra,Meningitis Viral,2024-06-12,en proceso,serología,
+11815230,Anita,Sales,Leptospirosis,2024-04-22,recibido,serología,
+10512491,Sergio,Espada,Meningitis Bacteriana,2024-01-06,finalizado,PCR,negativo
+74732067,Ale,Luz,Meningitis Bacteriana,2024-01-22,recibido,PCR,
+67097066,Joaquín,Exposito,Meningitis Viral,2024-06-06,en proceso,serología,
+10674596,Xiomara,Barón,Leptospirosis,2024-03-07,en proceso,serología,
+30179257,Febe,Alcalá,Leptospirosis,2024-06-10,en tránsito,PCR,
+28769701,Consuelo,Lobato,Leptospirosis,2024-05-13,finalizado,serología,positivo
+58264686,Pía,Bernad,Meningitis Viral,2024-04-24,en proceso,serología,
+49214640,Armida,Bilbao,Meningitis Bacteriana,2024-07-18,en tránsito,PCR,
+76868531,Elba,Collado,Meningitis Viral,2024-02-24,en tránsito,serología,
+70383763,Vicente,Téllez,Meningitis Bacteriana,2024-07-25,recibido,PCR,
+20484032,Concepción,Aparicio,Meningitis Bacteriana,2024-06-18,en proceso,serología,
+85419313,Fermín,Bosch,Leptospirosis,2024-04-07,recibido,PCR,
+54142272,María,Huerta,Meningitis Bacteriana,2024-06-15,finalizado,serología,negativo
+49030395,Nydia,Mercader,Meningitis Bacteriana,2024-08-04,en proceso,PCR,
+65672292,Carolina,Sedano,Leptospirosis,2024-02-09,en tránsito,serología,
+98321357,Eloísa,Coll,Meningitis Bacteriana,2024-04-28,en proceso,PCR,
+72050815,Edmundo,Sola,Meningitis Viral,2024-02-12,finalizado,PCR,positivo
+83137608,Josep,Guillen,Leptospirosis,2024-07-19,recibido,serología,
+86964400,Ariadna,Jara,Leptospirosis,2024-06-14,en tránsito,PCR,
+39148651,Amor,Coca,Meningitis Bacteriana,2024-03-04,recibido,PCR,
+56645527,Vilma,Bolaños,Meningitis Bacteriana,2024-05-09,en proceso,PCR,
+58823933,Juan Pablo,Peñas,Meningitis Viral,2024-05-10,en tránsito,serología,
+93038937,Atilio,Ibáñez,Meningitis Bacteriana,2024-02-17,en tránsito,serología,
+76425078,Adolfo,Urrutia,Meningitis Viral,2024-02-26,finalizado,PCR,negativo
+45786394,Epifanio,Rueda,Meningitis Viral,2024-07-26,finalizado,serología,negativo
+15393218,Tania,Capdevila,Meningitis Viral,2024-03-23,recibido,PCR,
+95815971,Melania,Franch,Leptospirosis,2024-07-21,en proceso,serología,
+58254906,Teófila,Tapia,Leptospirosis,2024-02-05,recibido,PCR,
+44682129,Berta,Gallart,Leptospirosis,2024-07-26,en tránsito,PCR,
+23112591,Marcos,Morante,Leptospirosis,2024-03-25,finalizado,serología,positivo
+43223712,Valerio,Puerta,Leptospirosis,2024-06-03,en tránsito,serología,
+21710399,Faustino,Diego,Leptospirosis,2024-05-27,finalizado,PCR,negativo
+61948158,Clímaco,Sevilla,Meningitis Viral,2024-07-28,finalizado,PCR,positivo
+68477984,Perlita,Casares,Meningitis Bacteriana,2024-01-09,en proceso,PCR,
+25919280,Cándido,Dominguez,Meningitis Bacteriana,2024-01-28,finalizado,serología,positivo
+25980815,Félix,Mendez,Meningitis Viral,2024-07-20,en proceso,serología,
+56057510,Jerónimo,Miralles,Meningitis Viral,2024-03-16,finalizado,PCR,positivo
+66144151,Maximino,Ramis,Meningitis Viral,2024-03-12,finalizado,serología,positivo
+98313738,Eufemia,Iglesia,Meningitis Viral,2024-06-03,recibido,PCR,
+95535119,Nicolasa,Núñez,Meningitis Bacteriana,2024-07-22,finalizado,PCR,negativo
+15749663,Prudencio,Benet,Leptospirosis,2024-01-11,recibido,serología,
+49585180,Saturnino,Camino,Meningitis Viral,2024-05-25,en tránsito,serología,
+79834802,Benita,Maestre,Meningitis Bacteriana,2024-02-06,en proceso,PCR,
+40976704,Moisés,Calvet,Meningitis Viral,2024-07-19,finalizado,serología,positivo
+13964423,Seve,Boix,Meningitis Bacteriana,2024-02-14,recibido,serología,
+53796161,Carmen,Segarra,Meningitis Viral,2024-03-27,recibido,serología,
+42192186,Azucena,Gámez,Meningitis Viral,2024-07-06,finalizado,PCR,positivo
+70135007,Roxana,Barceló,Meningitis Bacteriana,2024-08-03,en tránsito,serología,
+33265388,Noé,Catalá,Meningitis Bacteriana,2024-06-11,en tránsito,serología,
+83698729,Pedro,Egea,Meningitis Viral,2024-08-08,recibido,PCR,
+22346561,Inés,Escudero,Meningitis Bacteriana,2024-03-11,en proceso,PCR,
+70890407,Reynaldo,Cabañas,Meningitis Viral,2024-02-16,recibido,PCR,
+96091372,Ricardo,Castell,Meningitis Viral,2024-07-03,recibido,PCR,
+97325829,Manuelita,Arnal,Meningitis Viral,2024-04-26,en tránsito,serología,
+43511632,Prudencio,Heredia,Meningitis Viral,2024-07-29,finalizado,serología,negativo
+27526144,Catalina,Zaragoza,Leptospirosis,2024-04-28,en proceso,serología,
+37383332,Eulalia,Fernandez,Meningitis Viral,2024-06-02,en tránsito,PCR,
+32409947,Evangelina,Mata,Leptospirosis,2024-04-15,en tránsito,PCR,
+94151693,María José,Urrutia,Leptospirosis,2024-04-03,en tránsito,serología,
+67118331,Hernán,Mayol,Meningitis Viral,2024-01-06,finalizado,serología,negativo
+55936272,Dionisio,Gascón,Meningitis Bacteriana,2024-06-14,recibido,PCR,
+21605645,Lara,Osuna,Meningitis Viral,2024-01-28,recibido,PCR,
+84265511,Diego,Carpio,Meningitis Viral,2024-07-02,recibido,serología,
+10200488,Begoña,Haro,Leptospirosis,2024-04-24,en tránsito,serología,
+82510071,Guillermo,Oliva,Meningitis Viral,2024-06-06,en tránsito,serología,
+57916002,Fausto,Segovia,Leptospirosis,2024-07-20,recibido,serología,
+61279210,Javiera,Gallardo,Leptospirosis,2024-08-09,recibido,serología,
+95384956,Maxi,Palma,Meningitis Viral,2024-02-08,en proceso,PCR,
+40499235,Danilo,Barón,Meningitis Viral,2024-01-15,recibido,PCR,
+24811423,Trinidad,Saavedra,Leptospirosis,2024-02-04,recibido,PCR,
+16271683,Fidel,Valcárcel,Meningitis Bacteriana,2024-07-22,en tránsito,serología,
+46523915,Cornelio,Luís,Meningitis Viral,2024-05-30,en proceso,PCR,
+99411313,Elena,Riera,Meningitis Viral,2024-06-08,en tránsito,serología,
+58285971,Bautista,Sosa,Leptospirosis,2024-04-03,en proceso,serología,
+56267040,Elvira,Almagro,Leptospirosis,2024-08-06,en tránsito,serología,
+88257902,Luisina,Espada,Leptospirosis,2024-07-05,finalizado,PCR,positivo
+48312916,Loreto,Amigó,Meningitis Viral,2024-08-01,finalizado,PCR,negativo
+97767372,Ceferino,Sánchez,Meningitis Bacteriana,2024-01-29,en tránsito,serología,
+61976109,David,Beltrán,Leptospirosis,2024-03-07,finalizado,PCR,positivo
+18405753,Jaime,Segarra,Meningitis Viral,2024-07-28,recibido,PCR,
+39880348,Teo,Amigó,Leptospirosis,2024-06-16,en tránsito,serología,
+10775570,Diego,Casal,Meningitis Viral,2024-07-12,en tránsito,serología,
+51029150,Jaime,Martín,Leptospirosis,2024-01-12,en proceso,serología,
+39959604,Fausto,Díaz,Meningitis Viral,2024-05-23,recibido,PCR,
+78808018,Jose,Asensio,Meningitis Bacteriana,2024-04-25,en tránsito,serología,
+11350254,Herminio,Canals,Meningitis Bacteriana,2024-05-25,recibido,serología,
+76405389,Norberto,Raya,Leptospirosis,2024-06-10,en proceso,serología,
+69650430,Guiomar,Borrás,Leptospirosis,2024-04-18,en proceso,PCR,
+99290789,Ibán,Calvo,Meningitis Bacteriana,2024-05-19,finalizado,serología,positivo
+25288716,Octavio,Cerdá,Meningitis Viral,2024-01-15,en tránsito,serología,
+67686914,Manolo,Velázquez,Meningitis Bacteriana,2024-06-14,en proceso,serología,
+26002298,Arturo,Chacón,Meningitis Bacteriana,2024-02-01,en proceso,PCR,
+36404571,Catalina,Arjona,Meningitis Bacteriana,2024-07-26,en proceso,PCR,
+54604212,Berto,Mayoral,Meningitis Bacteriana,2024-02-20,en tránsito,serología,
+61881699,Atilio,Sans,Meningitis Bacteriana,2024-07-25,recibido,PCR,
+18752752,Jordana,Hurtado,Meningitis Viral,2024-04-07,en proceso,PCR,
+86585537,Flor,Agullo,Meningitis Bacteriana,2024-03-29,recibido,serología,
+87598527,Ruben,Cervera,Meningitis Viral,2024-03-04,en proceso,serología,
+15111654,Manu,Sevilla,Leptospirosis,2024-08-05,en proceso,PCR,
+78659790,Brunilda,Alvarez,Meningitis Viral,2024-05-26,recibido,serología,
+26923791,Julia,Soler,Meningitis Bacteriana,2024-01-13,en proceso,serología,
+18105600,Roxana,Miró,Meningitis Bacteriana,2024-05-17,en tránsito,PCR,

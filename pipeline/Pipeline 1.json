@@ -1,0 +1,129 @@
+{
+	"name": "Pipeline 1",
+	"properties": {
+		"activities": [
+			{
+				"name": "Notificaciones a Kafka",
+				"type": "DatabricksNotebook",
+				"dependsOn": [],
+				"policy": {
+					"timeout": "0.12:00:00",
+					"retry": 0,
+					"retryIntervalInSeconds": 30,
+					"secureOutput": false,
+					"secureInput": false
+				},
+				"userProperties": [],
+				"typeProperties": {
+					"notebookPath": "/Users/estrellasicardi@udelar409.onmicrosoft.com/Fuente de notificaciones de eventos"
+				},
+				"linkedServiceName": {
+					"referenceName": "AzureDatabricks2",
+					"type": "LinkedServiceReference"
+				}
+			},
+			{
+				"name": "Ingesta de Notificaciones",
+				"type": "DatabricksNotebook",
+				"dependsOn": [
+					{
+						"activity": "Notificaciones a Kafka",
+						"dependencyConditions": [
+							"Succeeded"
+						]
+					}
+				],
+				"policy": {
+					"timeout": "0.12:00:00",
+					"retry": 0,
+					"retryIntervalInSeconds": 30,
+					"secureOutput": false,
+					"secureInput": false
+				},
+				"userProperties": [],
+				"typeProperties": {
+					"notebookPath": "/Users/estrellasicardi@udelar409.onmicrosoft.com/Ingesta de las notificaciones"
+				},
+				"linkedServiceName": {
+					"referenceName": "AzureDatabricks2",
+					"type": "LinkedServiceReference"
+				}
+			},
+			{
+				"name": "Agrego datos de laboratorio",
+				"type": "DatabricksNotebook",
+				"dependsOn": [
+					{
+						"activity": "Ingesta de Notificaciones",
+						"dependencyConditions": [
+							"Succeeded"
+						]
+					}
+				],
+				"policy": {
+					"timeout": "0.12:00:00",
+					"retry": 0,
+					"retryIntervalInSeconds": 30,
+					"secureOutput": false,
+					"secureInput": false
+				},
+				"userProperties": [],
+				"typeProperties": {
+					"notebookPath": "/Users/estrellasicardi@udelar409.onmicrosoft.com/(Clone) Conectarse a SQL"
+				},
+				"linkedServiceName": {
+					"referenceName": "AzureDatabricks2",
+					"type": "LinkedServiceReference"
+				}
+			},
+			{
+				"name": "Genero datos para visualizacion y ML",
+				"type": "DatabricksNotebook",
+				"dependsOn": [
+					{
+						"activity": "Agrego datos de laboratorio",
+						"dependencyConditions": [
+							"Succeeded"
+						]
+					}
+				],
+				"policy": {
+					"timeout": "0.12:00:00",
+					"retry": 0,
+					"retryIntervalInSeconds": 30,
+					"secureOutput": false,
+					"secureInput": false
+				},
+				"userProperties": [],
+				"typeProperties": {
+					"notebookPath": "/Users/estrellasicardi@udelar409.onmicrosoft.com/Generar datos agregados"
+				},
+				"linkedServiceName": {
+					"referenceName": "AzureDatabricks2",
+					"type": "LinkedServiceReference"
+				}
+			},
+			{
+				"name": "Modelo Favorabilidad Dengue",
+				"type": "DatabricksNotebook",
+				"dependsOn": [],
+				"policy": {
+					"timeout": "0.12:00:00",
+					"retry": 0,
+					"retryIntervalInSeconds": 30,
+					"secureOutput": false,
+					"secureInput": false
+				},
+				"userProperties": [],
+				"typeProperties": {
+					"notebookPath": "/Users/estrellasicardi@udelar409.onmicrosoft.com/Entrenamiento del Modelo y Predicciones"
+				},
+				"linkedServiceName": {
+					"referenceName": "AzureDatabricks2",
+					"type": "LinkedServiceReference"
+				}
+			}
+		],
+		"annotations": []
+	}
+}
